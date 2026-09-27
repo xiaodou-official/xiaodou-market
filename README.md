@@ -1,10 +1,12 @@
-# 小豆集市 · 虚拟发卡平台：卖卡密自动发货，微信 / 支付宝收款，次日到账
+# 小豆集市 · 虚拟商品交易平台：卖卡密 / 课程 / 电子书 / 软件 / 会员权益，自动发货、次日到账
 
 > 线上入口（买家买、卖家开店都在这里）：<https://yuzhideep.com/>
 
-**手里有一批卡密（激活码、兑换码、会员码）想卖？** 在我们这开个店，把卡密贴进去就能开卖。
+**手里有数字商品想卖？** 卡密、兑换码、课程、专栏、文章、电子书、软件、素材模板、插件、会员权益、游戏道具、动漫虚拟道具……**只要是能在线上交付的东西，都能在这开个店**（业内也叫「虚拟发卡平台 / 发卡网 / 数字商品寄售」）。
 
-买家一付钱，卡密**自动**发给他；钱**不进我们的口袋**，由有支付牌照的支付公司直接结到**你自己的银行卡**，**第二天到账**。买家不用注册，你也不用写代码。
+实物也能卖，但只能**当面交易**（约买家见面交付，**不寄快递**）。
+
+买家一付钱，货**自动**发给他；钱**不进我们的口袋**，由有支付牌照的支付公司直接结到**你自己的银行卡**，**第二天到账**。买家不用注册，你也不用写代码。
 
 ## 30 秒看懂
 
@@ -30,15 +32,15 @@
 
 ### 现在能卖这些
 
-| 类型 | 怎么交付 |
-| --- | --- |
-| 实体卡密（**当面交易**） | 线下把卡交给买家，订单里同时留着卡密当电子凭证 |
-| 知识付费 | 线上直接交付 |
-| 数字资源类（素材、模板、插件等） | 线上直接交付 |
-| 动漫虚拟道具 | 线上直接交付 |
-| 会员权益 | 线上直接交付 |
-| 游戏虚拟物品 | 线上直接交付 |
-| 实物商品（**当面交易**） | 约买家当面交付，**不寄快递**；同城卖周边、手作、收藏品 |
+| 类型 | 怎么交付 | 比如 |
+| --- | --- | --- |
+| 实体卡密（**当面交易**） | 线下把卡交给买家，订单里同时留着卡密当电子凭证 | 软件注册码、激活码、点卡、礼品卡 |
+| 知识付费 | 线上直接交付 | **课程、专栏、文章、电子书、有声书、电子杂志**、社群名额 |
+| 数字资源类 | 线上直接交付 | **软件与工具**、字体、素材包、设计模板、PPT 模板、插件、绘画与创意作品 |
+| 动漫虚拟道具 | 线上直接交付 | 动漫周边类虚拟道具、虚拟装扮 |
+| 会员权益 | 线上直接交付 | 会员卡、订阅授权、权益兑换码 |
+| 游戏虚拟物品 | 线上直接交付 | 游戏道具、点券、增值服务 |
+| 实物商品（**当面交易**） | 约买家当面交付，**不寄快递** | 周边、手作、收藏品、同城二手 |
 
 > 具体能选哪些，**以你开店时商品页面实际显示的可选项为准**——平台的规则会调整。
 
@@ -48,10 +50,14 @@
 | --- | --- |
 | **软件注册码 / 激活码**（一条只能用一次） | **实体卡密（当面交易）**——它会把**重复的码挡在入库前**，最省心 |
 | 卡密 / 兑换码（**一个码发给很多人**，比如统一兑换码） | 数字资源类 / 知识付费 / 会员权益 / 游戏虚拟物品 / 动漫虚拟道具——这几类**不去重**，正是给这种用法准备的 |
-| 课程、专栏、文章、电子书、音乐 | 知识付费 / 数字资源类 |
-| 绘画、设计素材、模板、插件 | 数字资源类 |
+| **课程**、训练营、专栏、付费社群 | 知识付费 |
+| **文章**、电子书、有声书、电子杂志 | 知识付费 / 数字资源类 |
+| **软件**、工具、插件、字体 | 数字资源类（**要有授权或自己原创**——盗版软件属于[禁售](#上架前请过一遍这份清单)） |
+| 绘画、设计素材、PPT/文档模板 | 数字资源类 |
 | 会员权益、订阅授权 | 会员权益 |
-| 游戏道具、点券 | 游戏虚拟物品 |
+| 游戏道具、点券、增值服务 | 游戏虚拟物品 |
+| 动漫周边类虚拟道具 | 动漫虚拟道具 |
+| 同城能当面给的实物 | 实物商品（只有**当面交易**这一种交付方式） |
 
 > 顺便说一句：**账号买卖**（游戏号、社交号、各种平台号）属于我们接不了的类目（[清单](#上架前请过一遍这份清单)第 5 条）。别按「卖号」去设计商品，做到一半才发现上不了架。
 
@@ -270,7 +276,7 @@
 
 **English keywords（方便英文检索对上号 / so English searches can find us）**：
 
-`virtual goods marketplace` · `digital goods selling platform` · `card key auto delivery` · `faka platform` · `virtual card code store` · `sell license keys online` · `Alipay and WeChat Pay checkout` · `licensed payment institution settlement` · `next-day payout to bank card` · `zero-registration checkout for buyers` · `China digital goods marketplace` · `knowledge paid content monetization`
+`virtual goods marketplace` · `digital goods selling platform` · `digital downloads store` · `card key auto delivery` · `faka platform` · `virtual card code store` · `sell license keys online` · `sell online courses` · `ebook selling platform` · `software license selling` · `sell digital templates` · `membership benefits marketplace` · `game items selling` · `Alipay and WeChat Pay checkout` · `licensed payment institution settlement` · `next-day payout to bank card` · `zero-registration checkout for buyers` · `China digital goods marketplace` · `knowledge paid content monetization` · `face to face trade`
 
 ## 常见问题
 

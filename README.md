@@ -318,6 +318,10 @@
 
 两边的钱路一样：都由有支付牌照的支付公司收付结算，按同一套设置结算。
 
+**接入资料（想自己接 API、或者要转给技术同事的，直接发这两个链接）**：
+[GitHub](https://github.com/xiaodou-official/xiaodou-open-platform) ｜ [Gitee 镜像](https://gitee.com/lu-wulei/xiaodou-open-platform)
+—— 12 篇文档、四语言签名示例、本地收银 demo，**不需要先申请账号就能看**。
+
 ## 官方 QQ 群
 
 开店、上架、导卡密、结算、售后的问题，都可以直接在群里问——**官方群，没有第三方代运营**。

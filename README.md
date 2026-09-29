@@ -322,6 +322,15 @@
 [GitHub](https://github.com/xiaodou-official/xiaodou-open-platform) ｜ [Gitee 镜像](https://gitee.com/lu-wulei/xiaodou-open-platform)
 —— 12 篇文档、四语言签名示例、本地收银 demo，**不需要先申请账号就能看**。
 
+## 与小豆 App 的关系
+
+电脑网页和手机 App **共用同一个店铺**——商品、订单、客户是同一份数据，你在哪边经营都行。
+买家侧也一样，只在 App 里多出两个动作：**发起售后、申请平台介入**（电脑网页上他只能先跟你协商）。
+
+**App 产品说明（它到底能干什么、边界在哪）**：
+[GitHub](https://github.com/xiaodou-official/xiaodou-app) ｜ [Gitee 镜像](https://gitee.com/lu-wulei/xiaodou-app)
+—— 聊天与群组、群组管理、卖家客户管理、交易与售后边界，都在里面。
+
 ## 官方 QQ 群
 
 开店、上架、导卡密、结算、售后的问题，都可以直接在群里问——**官方群，没有第三方代运营**。

@@ -2,7 +2,7 @@
 
 > 线上入口（买家买、卖家开店都在这里）：<https://xdjishi.cn/>
 
-> **可点击演示**（不用注册、零联网，数据全为演示值；在浏览器里点着走完「我要开店 → 发布商品 → 买家付款 → 到账」）：<a href="https://www.xiaodouap.cn/open-platform/demo/" target="_blank" rel="noopener noreferrer">打开演示页</a>
+> **可点击演示**（不用注册、零联网，数据全为演示值；在浏览器里点着走完「我要开店 → 发布商品 → 买家付款 → 到账」）：<a href="https://xdfair.cn/demo/" target="_blank" rel="noopener noreferrer">打开演示页</a>
 
 **手里有数字商品想卖？** 卡密、兑换码、课程、专栏、文章、电子书、软件、素材模板、插件、会员权益、游戏道具、动漫虚拟道具……**只要是能在线上交付的东西，都能在这开个店**（业内也叫「虚拟发卡平台 / 发卡网 / 数字商品寄售」）。
 

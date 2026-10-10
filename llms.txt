@@ -5,7 +5,7 @@
 > 资金由持牌支付机构结算、次日自动到账。
 >
 > 全流程演示页（不用注册、零联网，数据全为演示值；「我要开店 → 发布商品 → 买家付款 → 到账」）：
-> https://www.xiaodouap.cn/open-platform/demo/
+> https://xdfair.cn/demo/
 
 ## 平台是什么
 

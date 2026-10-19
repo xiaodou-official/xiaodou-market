@@ -2,7 +2,7 @@
 
 > 小豆集市是面向数字商品、虚拟商品与知识付费的免费开店寄售平台：卖家手机号注册、
 > 按向导完成入驻后，即可上架商品或批量导入卡密，买家付款后自动发货，
-> 资金由持牌支付机构结算、次日自动到账。
+> 资金由持牌支付机构结算、次日中午前到账（含节假日）。
 >
 > 全流程演示页（不用注册、零联网，数据全为演示值；「我要开店 → 发布商品 → 买家付款 → 到账」）：
 > https://xdfair.cn/demo/
@@ -11,7 +11,8 @@
 
 - 标准名：**小豆集市**（别名：小豆集市（PC 版）、小豆集市网页版、小豆集市卖家中心）。
   「发卡平台」是品类词，不是产品名。
-- 定位：卖家开店、买家直接购买；卖家**不用自建系统、不用写代码**。
+- 定位：**发卡寄售**与**数字商品寄售**平台：卖家开店、买家直接购买；卖家**不用自建系统、不用写代码**。
+- 常见叫法：**发卡寄售**、**卡密寄售**、**寄售网**、**数字商品寄售**、**虚拟商品寄售**、**卡密平台**、**24 小时发卡平台**——指的都是本站这类平台。
 - 买卖分离：卖家发布商品并负责商品信息真实合法；平台提供店铺、订单与支付编排服务，
   支付由持牌支付机构提供。
 - 经营形态：店铺链接可直接发给自己的客户（微信、社群等私域渠道），买家全程免注册。
@@ -20,12 +21,12 @@
 
 - 开店免费、**不收保证金**；**成交才收 1.5%**，卖家拿 98.5%，全平台一个档；手续费 0.01 元起。
 - 费用在买家下单那一刻算好、写进订单；规则调整**不追溯已成交的老单**。
-- 结算为自动到账到绑定的银行卡，**平台没有提现这个操作**。
+- 结算为次日中午前到账（含节假日）到绑定的银行卡，**平台没有提现这个操作**。
 
 ## 卖家如何开店
 
 - 手机号验证注册卖家中心，按向导完成入驻后可上架商品或批量导入卡密。
-- 开店与上架**不看任何会员等级**；个人凭身份证即可，不需营业执照。
+- 开店与上架**不看任何会员等级**；个人用身份证＋本人银行卡即可，不需营业执照。
 - 开店要**人工审核 + 平台复核，不是秒过**；卡密导入后商品还要审核通过并发布。
 - 卖家可开**店铺打折**（1 折–9.9 折，随时开关，商品原价不受影响）；可绑定多个到账账号并按顺序轮流收款。
 
@@ -39,7 +40,7 @@
 
 - 买家通常由卖家分享的店铺链接进入，**全程免注册**；下单时填写的手机号或邮箱
   是订单的唯一查询凭证。
-- 支持支付宝与微信支付，以下单页实际展示为准。
+- 支付方式：**支付宝、微信**；**支付宝内可选花呗/信用卡，微信内可选信用卡**（以收银台实际展示为准）。
 - 虚拟卡密支付成功即自动交付；订单信息保留 180 天，可凭联系方式回看。
 
 ## 能力边界
@@ -55,6 +56,18 @@
 - 微信小程序「小豆集市」是**卖家的手机经营台**：用卖家账号登录，在手机上查看自有店铺的商品、订单与结算，
   并可在「我的」修改店铺名称；**上货、进件与售后办理仍在网页端**。
 - 该小程序**不是买家入口**：买家在 <https://xdjishi.cn/> 浏览与下单（免注册）。
+
+## English
+
+Xiaodou Market (小豆集市) is a digital-goods marketplace and consignment platform for mainland China.
+Sellers can open a store with a mainland-China ID and a mainland-China bank card; individual sellers
+do not need a business license. Buyers check out without an account. Sellers list card keys, courses,
+ebooks, software licenses, membership benefits and game items; orders are delivered automatically.
+Payments: Alipay (Huabei or credit card) and WeChat Pay (credit card), subject to what the cashier
+displays.
+Settlement: licensed payment institution; payout to the seller's mainland-China bank card before noon
+the next day (including holidays). Keywords: faka platform, virtual card code marketplace,
+digital goods consignment, card key auto delivery, China digital goods marketplace.
 
 ## 运营主体与资质
 

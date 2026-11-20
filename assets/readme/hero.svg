@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="hero-title hero-desc">
   <title id="hero-title">小豆集市 · 开店卖数字商品</title>
-  <desc id="hero-desc">标题：小豆集市。要点：成交才收 2.80%（单一档，不分渠道）、自动发货、买家免注册、没有货源可去货源广场拿货、店铺打折自己定。右侧为开店四步：注册、资料、上架、开卖。</desc>
+  <desc id="hero-desc">标题：小豆集市。要点：成交才收 1.5%～2.8%（最低 1.5%、最高 2.8%）、自动发货、买家免注册、没有货源可去货源广场拿货、店铺打折自己定。右侧为开店四步：注册、资料、上架、开卖。</desc>
   <defs>
     <radialGradient id="glow" cx="0.22" cy="0.18" r="0.7">
       <stop offset="0" stop-color="#F0B45A" stop-opacity="0.16"/>
@@ -20,7 +20,7 @@
 
     <g font-size="20" fill="#FFF4E2">
       <rect x="56" y="252" width="240" height="44" rx="4" fill="#1D2540" stroke="#3A4463"/>
-      <text x="80" y="281">成交才收 2.80%</text>
+      <text x="80" y="281">成交才收 1.5%～2.8%</text>
       <rect x="312" y="252" width="226" height="44" rx="4" fill="#1D2540" stroke="#3A4463"/>
       <text x="336" y="281">没货源也能开店</text>
       <rect x="554" y="252" width="226" height="44" rx="4" fill="#1D2540" stroke="#3A4463"/>
